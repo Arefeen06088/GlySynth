@@ -1,1 +1,1 @@
-# GlySynth: Autoregressive Scheme for Synthetic Time-series Generation Under Data Scarcity
+# GlySynth: Synthesizing Time-series Under Data Scarcity
